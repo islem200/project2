@@ -1,0 +1,76 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body{
+    background-color:white;
+}
+nav a{
+    text-decoration: none;
+    color: blueviolet
+
+   
+}
+a:hover{
+    color: blue;
+}
+
+h1{
+    color:black ;
+
+}
+p{
+    color: black;
+
+}
+.container h1{
+    color: rgb(0, 102, 255);
+    font-size: 30px;
+    font-family: roboto;
+  
+}
+.container p{
+    font-size: 30px ;
+    font-style: oblique;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.lorem{
+    font-size: 30px;
+}
+#about h1{
+    font-size: 40px;
+    color: violet;
+
+}
+#about p{
+    font-size: 20px;
+    color: mediumorchid;
+}
+#work h1{
+    font-size: 40px;
+    color: violet;
+
+}
+#work p{
+    font-size: 20px;
+    color:mediumorchid ;
+}
+#resume h1{
+    font-size: 30px;
+    color:violet;
+
+}
+#contact p{
+    font-size: 30px;
+    color: aquamarine;
+
+
+}
+#contact p:hover{
+    color: blueviolet;
+}
+
